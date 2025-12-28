@@ -27,7 +27,7 @@ Built KPIs and dashboards to analyze sales, profit, and discount impact.
 
 ---
 ### 🟢 Car Prices Market and Bikes Analysis
-**Tools:** Excel
+**Tools:** Excel  
 Cleaned and analyzed car pricing data to identify trends, outliers, and key price drivers.
 
 🔗 [View Project](https://github.com/Md773/Cars-prices-analysis)
