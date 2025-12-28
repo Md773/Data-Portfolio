@@ -15,7 +15,7 @@ Open to remote roles.
 Python • SQL • Power BI  
 Currently working on data cleaning, EDA, and dashboard design.
 
-🔗 [View Project](./air-pollution-public-health)
+🔗 [View Project](https://github.com/Md773/Air-Pollution-Public-Health-Analysis)
 
 ---
 
